@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: IEWP Simple Session 
+ * Plugin Name: IEWP Simple PHP Sessions
  * Plugin URI: https://github.com/corenominal/iewp-simple-sessions
  * Description: A WordPress plugin to provide simple PHP session management and functions.
  * Author: Philip Newborough
